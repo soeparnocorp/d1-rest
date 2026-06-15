@@ -1,4 +1,4 @@
-# d1-secret-rest
+# rest-api
 Fetch results or execute queries against a D1 CRUD REST API
 
 ## Performance
